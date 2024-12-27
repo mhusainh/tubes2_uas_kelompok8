@@ -9,4 +9,4 @@ class RouteApp {
       page: () => const MainMenuScreen(),
     )
   ];
-}
+}f
