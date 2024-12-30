@@ -1,3 +1,4 @@
+// ignore: depend_on_referenced_packages
 import 'package:cat_app/core/config/main_app.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
