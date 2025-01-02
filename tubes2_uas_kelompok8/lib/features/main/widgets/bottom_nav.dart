@@ -33,5 +33,3 @@ class BottomNavBarWidget extends StatelessWidget {
     );
   }
 }
-
-class MainMenuController {}
